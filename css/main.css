@@ -1,0 +1,19 @@
+body
+{
+	background-color: rgb(50, 80, 100)
+}
+h1
+{
+	text-decoration: underline;
+	font-size: 14pt;
+}
+h2
+{
+	text-decoration: italic;
+	color: rgb(10, 50, 90)
+}
+
+ul
+{
+	font-size: 22pt;
+}
